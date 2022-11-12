@@ -2,7 +2,7 @@
 
 ## Soy estudiante de Data Science ✨
 
-![imagen](https://storyset.com/illustration/contact-us/rafiki)
+![imagen](https://stories.freepiklabs.com/api/vectors/contact-us/rafiki/render?color=&background=complete&hide=)
 
 Mi nombre es Julieta Ciare y soy de Buenos Aires ( Argentina). Estaré subiendo mis proyectos espero que les guste ☺️
 
