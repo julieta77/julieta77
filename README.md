@@ -4,7 +4,7 @@
 
 ![imagen](https://stories.freepiklabs.com/api/vectors/contact-us/rafiki/render?color=&background=complete&hide=)
 
-Mi nombre es Julieta Ciare y soy de Buenos Aires ( Argentina). Estaré subiendo mis proyectos espero que les guste ☺️
+Estaré subiendo mis proyectos por este medio espero que les guste ☺️
 
 Habilidades: Python/SQL/ Power Bi
 
