@@ -1,15 +1,14 @@
-### Hola👋, mi nombre es Julieta
+### Hola👋, mi nombre es Julieta ✨
 
-## Soy estudiante de Data Science ✨
 
 ![imagen](https://stories.freepiklabs.com/api/vectors/contact-us/rafiki/render?color=&background=complete&hide=)
 
 Estaré subiendo mis proyectos por este medio espero que les guste ☺️
 
-Habilidades: Python/SQL/ Power Bi
+Habilidades: Python/SQL/ Power Bi/ No-SQL/ Airflow / Streamlit /Docker/ Machine learning
 
 
-🌱 Actualmente estoy aprendiendo ciencia de datos
+🌱 Me gradúe de Data Science en Henry(Bootcamp) 🎉
 
 📫 Cómo contactarme: julietaciare77@gmail.com
 
