@@ -11,5 +11,5 @@ Habilidades: Data Science / Data Engineer / Data Analyst / Python / SQL / Power 
 
 📫 Cómo contactarme: julietaciare77@gmail.com
 
-⚡ Dato curioso: Me apasiona Machine learning
+⚡ Dato curioso: Me apasiona el Machine learning
 
